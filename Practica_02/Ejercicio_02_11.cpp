@@ -2,7 +2,7 @@
 // Autor: Maria del Carmen Fernandez
 // Fecha creación: 26/02/2025
 // Número de ejercicio: 11
-// Problema planteado:
+// Problema planteado: Ejercicio guarderia 
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
