@@ -2,7 +2,7 @@
 // Autor: Maria del Carmen Fernandez
 // Fecha creación: 26/02/2025
 // Número de ejercicio: 8
-// Problema planteado:
+// Problema planteado: generar una serie
 #include <iostream>
 using namespace std;
 int main() 
